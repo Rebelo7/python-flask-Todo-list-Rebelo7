@@ -20,7 +20,7 @@ if __name__ == '__main__':
 Ejecuta tu nuevo servidor abriendo un **nuevo termial aparte** y escribe el siguiente comando:
 
 ```bash
-$ pipenv run python src/app.py
+$ 
 ```
 
 > Abre una nueva terminal para ejecutar este comando.
